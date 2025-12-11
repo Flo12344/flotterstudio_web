@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GameDev on Flo_12344</title><link>https://example.org/categories/gamedev/</link><description>Recent content in GameDev on Flo_12344</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 08 Dec 2025 00:00:00 +0100</lastBuildDate><atom:link href="https://example.org/categories/gamedev/index.xml" rel="self" type="application/rss+xml"/><item><title>Sizebound C++ demo release</title><link>https://example.org/posts/sizebound-0/</link><pubDate>Mon, 08 Dec 2025 00:00:00 +0100</pubDate><guid>https://example.org/posts/sizebound-0/</guid><description>&lt;p&gt;The rewrite of Sizebound in C++ has been quite a wild journey!
+&lt;br&gt;
+But now it&amp;rsquo;s finally ready! At least the new demo is ^^&lt;/p&gt;
+&lt;p&gt;&lt;img src="sizebound.png" alt="Sizebound"&gt;&lt;/p&gt;
+&lt;h2 id="whats-new"&gt;
+&lt;a class="header-anchor" href="#whats-new"&gt;#&lt;/a&gt;
+What&amp;rsquo;s new?
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;The whole gameplay has been redone in C++&lt;/li&gt;
+&lt;li&gt;All the models and textures have been redone&lt;/li&gt;
+&lt;li&gt;The level editor has been redone (even if still WIP)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="features"&gt;
+&lt;a class="header-anchor" href="#features"&gt;#&lt;/a&gt;
+Features
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Added a few more levels&lt;/li&gt;
+&lt;li&gt;Started adding gamepad support&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="fixes"&gt;
+&lt;a class="header-anchor" href="#fixes"&gt;#&lt;/a&gt;
+Fixes
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Fixed some bugs&lt;/li&gt;
+&lt;li&gt;Fixed some performance issues&lt;/li&gt;
+&lt;li&gt;Fixed some softlocks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="whats-next"&gt;
+&lt;a class="header-anchor" href="#whats-next"&gt;#&lt;/a&gt;
+What&amp;rsquo;s next?
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;I will need to get to the story writing phase now.&lt;/li&gt;
+&lt;li&gt;Adding more details in level to follow the story&lt;/li&gt;
+&lt;li&gt;Finishing the coop system&lt;/li&gt;
+&lt;li&gt;Working on the level design for both singleplayer and coop campaigns&lt;/li&gt;
+&lt;li&gt;Adding the modding system (partially done but still very early)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;That also means that I should be able to post a bit more now that I&amp;rsquo;m done with the C++ rewrite, now I&amp;rsquo;ll be able to show abit more of the new features and stuff like that as I add them ^^&lt;/p&gt;</description></item></channel></rss>

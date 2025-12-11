@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Flo_12344</title><link>https://example.org/</link><description>Recent content in Home on Flo_12344</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 08 Dec 2025 00:00:00 +0100</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Sizebound C++ demo release</title><link>https://example.org/posts/sizebound-0/</link><pubDate>Mon, 08 Dec 2025 00:00:00 +0100</pubDate><guid>https://example.org/posts/sizebound-0/</guid><description>&lt;p&gt;The rewrite of Sizebound in C++ has been quite a wild journey!
+&lt;br&gt;
+But now it&amp;rsquo;s finally ready! At least the new demo is ^^&lt;/p&gt;
+&lt;p&gt;&lt;img src="sizebound.png" alt="Sizebound"&gt;&lt;/p&gt;
+&lt;h2 id="whats-new"&gt;
+&lt;a class="header-anchor" href="#whats-new"&gt;#&lt;/a&gt;
+What&amp;rsquo;s new?
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;The whole gameplay has been redone in C++&lt;/li&gt;
+&lt;li&gt;All the models and textures have been redone&lt;/li&gt;
+&lt;li&gt;The level editor has been redone (even if still WIP)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="features"&gt;
+&lt;a class="header-anchor" href="#features"&gt;#&lt;/a&gt;
+Features
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Added a few more levels&lt;/li&gt;
+&lt;li&gt;Started adding gamepad support&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="fixes"&gt;
+&lt;a class="header-anchor" href="#fixes"&gt;#&lt;/a&gt;
+Fixes
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Fixed some bugs&lt;/li&gt;
+&lt;li&gt;Fixed some performance issues&lt;/li&gt;
+&lt;li&gt;Fixed some softlocks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="whats-next"&gt;
+&lt;a class="header-anchor" href="#whats-next"&gt;#&lt;/a&gt;
+What&amp;rsquo;s next?
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;I will need to get to the story writing phase now.&lt;/li&gt;
+&lt;li&gt;Adding more details in level to follow the story&lt;/li&gt;
+&lt;li&gt;Finishing the coop system&lt;/li&gt;
+&lt;li&gt;Working on the level design for both singleplayer and coop campaigns&lt;/li&gt;
+&lt;li&gt;Adding the modding system (partially done but still very early)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;That also means that I should be able to post a bit more now that I&amp;rsquo;m done with the C++ rewrite, now I&amp;rsquo;ll be able to show abit more of the new features and stuff like that as I add them ^^&lt;/p&gt;</description></item><item><title>About</title><link>https://example.org/about/</link><pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.org/about/</guid><description>&lt;h1 id="hey-im-flo_12344"&gt;
+&lt;a class="header-anchor" href="#hey-im-flo_12344"&gt;#&lt;/a&gt;
+Hey, I&amp;rsquo;m Flo_12344!
+&lt;/h1&gt;&lt;p&gt;Florent Daerden (aka Flo_12344), I&amp;rsquo;m a french selft-taught indie game developer working solo on &lt;a href="https://store.steampowered.com/app/3285410/Sizebound/"&gt;Sizebound&lt;/a&gt;, amind-bending puzzle game blending &lt;em&gt;Portal&lt;/em&gt;, &lt;em&gt;Superliminal&lt;/em&gt; and &lt;em&gt;Q.U.B.E.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id="my-journey"&gt;
+&lt;a class="header-anchor" href="#my-journey"&gt;#&lt;/a&gt;
+My Journey
+&lt;/h2&gt;&lt;p&gt;I&amp;rsquo;ve been tinkering with code and 3D art for about &lt;strong&gt;14 years&lt;/strong&gt;, starting with basic Minecraft mods and Blender/Cinema 4D experiments. In 2018, I pursued a &lt;strong&gt;3D/VFX bachelor&amp;rsquo;s degree&lt;/strong&gt;, but programming kept comming back to my mind. School projects forced me to dive deeper in &lt;strong&gt;C#&lt;/strong&gt;, and I fell in love with game dev and programming all over again.&lt;/p&gt;</description></item><item><title>Contact</title><link>https://example.org/contact/</link><pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.org/contact/</guid><description>&lt;h1 id="contact-me-here"&gt;
+&lt;a class="header-anchor" href="#contact-me-here"&gt;#&lt;/a&gt;
+Contact me here
+&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Discord&lt;/strong&gt;: flo_12344&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Discord Server&lt;/strong&gt;: &lt;a href="https://discord.gg/VxkeGH5g4t"&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Email&lt;/strong&gt;: &lt;a href="mailto:contact@flotterstudio.com"&gt;contact@flotterstudio.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Website&lt;/strong&gt;: &lt;a href="https://flotterstudio.com"&gt;flotterstudio.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bsky&lt;/strong&gt;: &lt;a href="https://bsky.app/profile/flo_12344.bsky.social"&gt;bsky.app&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>
